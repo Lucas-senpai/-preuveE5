@@ -14,7 +14,7 @@ INSERT INTO `products` (`id`, `name`, `slug`, `short_description`, `description`
 VALUES ('7', 'Voiture Citrouille', 'voiture-citrouille', 'Jouet', 'Puzzle en bois représentant la voiture citrouille du conte de Cendrillon. Taille : 36cm x 12cm', '55', '1', 'CitrouilleBois.png', '1', '2023-04-18 11:28:27', '2023-04-19 11:28:27');
 INSERT INTO `products` (`id`, `name`, `slug`, `short_description`, `description`, `price`, `quantity`, `image`, `cat_id`, `created_at`, `updated_at`)
 VALUES ('8', 'Voiture de course', 'voiture-de-course', 'Jouet', 'Puzzle en bois représentant un voiture de course. Taille : 36cm x 12cm', '100', '10', 'CourseBois.png', '1', '2023-04-18 11:28:27', '2023-04-19 11:28:27');
-INSERT INTO `products` (`id`, `name`, `slug`, `short_description`, `description`, `price`, `quantity`, `image`, `cat_id`, `created_at`, `updated_ats`)
+INSERT INTO `products` (`id`, `name`, `slug`, `short_description`, `description`, `price`, `quantity`, `image`, `cat_id`, `created_at`, `updated_at`)
 VALUES ('9', 'Lapin Steampunk', 'lapin-steampunk', 'Décoration', 'Puzzle en bois représentant un lapin de style Steampunk. Taille : 36cm x 12cm', '33', '1', 'LapinBois.png', '2', '2023-04-18 11:28:27', '2023-04-19 11:28:27');
 INSERT INTO `products` (`id`, `name`, `slug`, `short_description`, `description`, `price`, `quantity`, `image`, `cat_id`, `created_at`, `updated_at`)
 VALUES ('10', 'Vaisseau Steampunk', 'vaisseau-steampunk', 'Décoration', 'Puzzle en bois représentant un vaisseau extraterrestre de style Steampunk. Taille : 36cm x 12cm', '45', '1', 'VaisseauBois.png', '2', '2023-04-18 11:28:27', '2023-04-19 11:28:27');
